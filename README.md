@@ -1,5 +1,3 @@
 # Recommendation-System
 
-Recommendation System: IBM Community
-
-For this project you will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles you think they will like. 
+As part of the Udacity Data Scientist Nanodegree Program, this project explores recommendation systems and create article recommendations based on real data from the IBM Watson Studio platform.
