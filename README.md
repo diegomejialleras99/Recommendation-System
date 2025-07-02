@@ -4,8 +4,8 @@ As part of the Udacity Data Scientist Nanodegree Program, this project explores 
 
 The objectives of this project were:
 
-1) Clean and preprocess dataset using NLP and Matrix Decomposition techiniques
-2) Calculate different similarity measures between users and assess their relevance to the problem
+1) Data Exploration & Create Rank Based Recommendations
+2) Implement Collaborative Filtering
 3) Implement a Rank-based recommendation system
-4) Implement a User-User based collaborative filtering system
+4) Perform SVD on user-item matrix.
 5) Develop a Content-based recommendation system for article suggestion automation
