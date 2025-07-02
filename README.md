@@ -4,7 +4,7 @@ As part of the Udacity Data Scientist Nanodegree Program, this project explores 
 
 The objectives of this project were:
 
-1) Data Exploration & Create Rank Based Recommendations
+1) Data Exploration 
 2) Implement Collaborative Filtering
 3) Implement a Rank-based recommendation system
 4) Perform SVD on user-item matrix.
